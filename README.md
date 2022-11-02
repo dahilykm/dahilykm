@@ -1,4 +1,9 @@
 ### ¡Hey👋! Soy Dahily👩‍💻
+### Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
+💖¿En qué estoy trabajando actualmente?
+Certificarme como Product owner y metodologias agiles
+Practicar mis conocimientos en ingles
+
 
 <!--
 **dahilykm/dahilykm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
