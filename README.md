@@ -3,7 +3,7 @@
 💜¿En qué estoy trabajando actualmente?
 <ul>
 <li>Certificarme como Product owner y metodologias ágiles</li>
-<li>Practicar mis conocimientos en ingles</li>
+<li>Practicar mis conocimientos en inglés</li>
 <li>Desarrollar el proyecto Mujeres Poderosas TIC </li>
 </ul>
 💜Cosas con las que me estoy desafiando:
