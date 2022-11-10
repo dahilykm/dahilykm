@@ -1,9 +1,10 @@
 ### ¡Hey! Soy Dahily👩‍💻
 ### Bienvenidxs, soy Ingeniera Biotecnológica de profesión pero me gusta el diseño de interfaces y el desarrollo web.
-💖¿En qué estoy trabajando actualmente?
-Certificarme como Product owner y metodologias agiles
-<p>Practicar mis conocimientos en ingles</p>
-<p>Desarrollar el proyecto Mujeres Poderosas TIC </p>
+<ol>💖¿En qué estoy trabajando actualmente?
+<li>Certificarme como Product owner y metodologias agiles</li>
+<li>Practicar mis conocimientos en ingles</li>
+<li>Desarrollar el proyecto Mujeres Poderosas TIC </li>
+  </ol>
 
 
 <!--
