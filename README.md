@@ -1,4 +1,4 @@
-### ¡Hey! Soy Dahily👩🏻‍💻
+### ¡Hey! Soy Dahi👩🏻‍💻
 ### Bienvenidxs, soy Ingeniera Biotecnológica de profesión pero me gusta el diseño de interfaces y el desarrollo web.
 💜¿En qué estoy trabajando actualmente?
 <ul>
